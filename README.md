@@ -1,2 +1,2 @@
 # Blacklist
-Add new blacklisted Links to hosts.txt
+Add new blacklisted Links to host.txt
